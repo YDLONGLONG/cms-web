@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+<div>
+  <MyHeader />
+  <nuxt-child></nuxt-child>
+</div>
 </template>
 
 <script>
